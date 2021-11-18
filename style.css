@@ -1,0 +1,49 @@
+body {
+    background: rgb(224, 226, 107);
+    margin:25px
+}
+
+h1 {
+    text-align: center;
+    font-size:50px;
+    color:forestgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width:300px;
+    height:auto;
+    margin-left:250px;
+    margin-right:250px;
+}
+
+.homelist {
+    text-align: center;
+    color: green;
+}
+
+p {
+    color:green;
+    
+}
+
+h2 {
+    margin:25px;
+    font-weight:bold;
+    color:forestgreen;
+    font-size:large
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    size:50px;
+    color: grey;
+    font-size:medium;
+    font-weight;bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li {
+    color:forestgreen;
+    word-spacing: 1px;
+}
